@@ -17,7 +17,7 @@ $ sudo dnf install ./linux-headers-5.6.0-1020-oem-5.6.0-1021.2.x86_64.rpm ./linu
 
 Original kernel my build not modifications deb casper config map src: https://github.com/Griggorii/linux-image-oem-5.6.0-1020-kernel-ubuntu-x86_64-deb-packageSupport 
 
-Fix donation message Griggorii@gmail.com real tehnology
+Fix support and donation fundation message Griggorii@gmail.com real tehnology
 
 
 
