@@ -15,7 +15,11 @@ Fedora install terminal run locate file kernel:
 
 $ sudo dnf install ./linux-headers-5.6.0-1020-oem-5.6.0-1021.2.x86_64.rpm ./linux-image-unsigned-5.6.0-1020-oem-5.6.0-1021.2.x86_64.rpm ./linux-modules-5.6.0-1020-oem-5.6.0-1021.2.x86_64.rpm
 
-Original kernel my build not modifications deb casper config map src: https://github.com/Griggorii/linux-image-oem-5.6.0-1020-kernel-ubuntu-x86_64-deb-package
+Original kernel my build not modifications deb casper config map src: https://github.com/Griggorii/linux-image-oem-5.6.0-1020-kernel-ubuntu-x86_64-deb-packageSupport 
+
+Fix donation message Griggorii@gmail.com real tehnology
+
+
 
 Example info
 
