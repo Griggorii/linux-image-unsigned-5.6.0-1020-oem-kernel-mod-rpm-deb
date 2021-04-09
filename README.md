@@ -1,5 +1,5 @@
 # linux-image-unsigned-5.6.0-1020-oem-kernel-mod-rpm-deb
-linux-image-5.6.0-1020-oem , kernel , mod , rpm , deb , fedora 34 , ubuntu , new modification my kernel , nvidia 440.100 , anbox , zfs, kvm
+linux-image-5.6.0-1020-oem , kernel , mod , rpm , deb , fedora 34 , ubuntu , new modification my kernel , nvidia 440.100 , anbox , zfs, kvm , arm
 
 Deb + RPM download package: https://github.com/Griggorii/linux-image-unsigned-5.6.0-1020-oem-kernel-mod-rpm-deb/releases/tag/linux-image-unsigned-5.6.0-1020-fedora
 
