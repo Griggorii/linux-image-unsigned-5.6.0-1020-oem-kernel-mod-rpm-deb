@@ -15,6 +15,31 @@ $ sudo tar xvpf v4l2loopback.ko-modul-5.6.0.tar.xz -C/
 
 Сделайте это самостоятельно convert DEB to RPM https://www.thegeekstuff.com/2010/11/alien-command-examples/
 
+Instrument sudo apt install likwid
+
+$ likwid-features --all
+Available features:
+	HW_PREFETCHER*
+	CL_PREFETCHER*
+	DCU_PREFETCHER*
+	IP_PREFETCHER*
+	FAST_STRINGS
+	THERMAL_CONTROL
+	PERF_MON
+	FERR_MULTIPLEX
+	BRANCH_TRACE_STORAGE
+	XTPR_MESSAGE
+	PEBS
+	SPEEDSTEP
+	MONITOR
+	SPEEDSTEP_LOCK
+	CPUID_MAX_VAL
+	XD_BIT
+	DYN_ACCEL
+	TURBO_MODE
+	TM2
+Modifiable features are marked with *
+
 Все же ядро как я ранее говорил всем хорошее , но тяжелое думаю убрать пару модулей ибудет летать как подтверждение ядро 5.6 поддерживает nvidia , anbox и другие программы которые в ит среде называются "вкусности" за счет того что на них можно не только разрабатывать приложения , но и заработать в эипл сторе гугла: https://ru.wikinews.org/wiki/%D0%92_Fedora_34_%D0%BD%D0%B0%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D1%8B_%D1%83%D0%B1%D1%80%D0%B0%D1%82%D1%8C_%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_SELinux_%D0%BD%D0%B0_%D0%BB%D0%B5%D1%82%D1%83_%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D1%82%D0%B8_%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D1%83_%D1%81_KDE_%D0%BD%D0%B0_Wayland проблема что такое ядро разработать можно только методами хака и знания как это сделать и особенно оценить именно перво причины почему это лучшее ядро если не во всем мире то в большинстве этого мира , некоторые ит корпорации попробовав это ядро даже обзовут его "инопланетным и опережающим свое время" по скольку предоставляет больше чем обычные даже новые ядра , почему я решил это подчеркнуть что бы потом не бегать и искать альтернативы которых нет.
 
 Ubuntu / Debian
