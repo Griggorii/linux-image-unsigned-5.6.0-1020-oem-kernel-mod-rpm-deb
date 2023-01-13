@@ -1,5 +1,5 @@
 # linux-image-unsigned-5.6.0-1020-oem-kernel-mod-rpm-deb
-linux-image-5.6.0-1020-oem , kernel , mod ,  jffs2 f2fs , lz4 , rpm , deb , fedora 34 , ubuntu , new modification my kernel , bbswitch nvidia , nvidia 440.100 , anbox , docker , zfs, kvm , arm , touchpad
+linux-image-5.6.0-1020-oem , kernel , mod ,  jffs2 f2fs , lvm2 pw , lz4 , rpm , deb , fedora 34 , ubuntu , new modification my kernel , bbswitch nvidia , nvidia 440.100 , anbox , docker , zfs, kvm , arm , touchpad
 
 Deb download package: https://github.com/Griggorii/linux-image-unsigned-5.6.0-1020-oem-kernel-mod-rpm-deb/releases/tag/linux-image-unsigned-5.6.0-1020-anbox
 
