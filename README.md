@@ -3,6 +3,8 @@ linux-image-5.6.0-1020-oem , kernel , mod ,  jffs2 f2fs , lvm2 pv , lz4 , rpm , 
 
 Deb download package: https://github.com/Griggorii/linux-image-unsigned-5.6.0-1020-oem-kernel-mod-rpm-deb/releases/tag/linux-image-unsigned-5.6.0-1020-anbox
 
++ 2023 uksmd.zip
+
 MSR tool perfomance instruction
 
 $ chmod +x msr.sh
